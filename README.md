@@ -12,7 +12,7 @@ This site was designed to showcase all of the work I have done and will do in th
 * jQuery
 
 ## Site Location
-[Russ Tracy Portfolio](https://russtracy.github.io/Taskmaster-Pro/)
+[Taskmaster Pro](https://russtracy.github.io/Taskmaster-Pro/)
 
 ## Contribution
 Made by [Russ Tracy]
