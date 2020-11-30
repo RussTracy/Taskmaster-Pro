@@ -2,7 +2,7 @@
 
 ## Description
 
-This site was designed to showcase all of the work I have done and will do in the future.
+This site was designed to enhance my skills using 3rd party API's. This project used BootStrap and jQuery to create a task tracker app.
 
 
 ## Built With
