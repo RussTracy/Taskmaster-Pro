@@ -1,7 +1,4 @@
 # Taskmaster Pro
-
-## Description
-
 This site was designed to enhance my skills using 3rd party API's. This project used BootStrap and jQuery to create a task tracker app.
 
 
